@@ -1,8 +1,9 @@
 # CE_AI-ToDo-Liste
 
 - ToDo Liste
-- Karteikarten mit KI
+- KI-Karteikarten
 - Notizen
+- KI-Ubersetzung u. Erklarung
 - Alle sind in deinem Browser.
 
 ---
